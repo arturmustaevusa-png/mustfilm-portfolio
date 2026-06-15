@@ -177,7 +177,7 @@
   moreBtn.addEventListener('click', function () { appendCards(LOAD_MORE_COUNT); });
 
   // Загружаем данные из videos.json
-  var JSON_URL = 'https://mustfilm-studio.github.io/mustfilm-portfolio/videos.json?v=' + Date.now();
+  var JSON_URL = 'https://arturmustaevusa-png.github.io/mustfilm-portfolio/videos.json?v=' + Date.now();
 
   fetch(JSON_URL)
     .then(function (r) { return r.json(); })
