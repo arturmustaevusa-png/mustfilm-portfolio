@@ -392,5 +392,17 @@
     "rutube": "https://rutube.ru/video/5b1e0d358f3d27036d6190602b29476e/?r=wd",
     "fullTitle": "Гибридный продакшн для VR-арены Another World: реальные актёры, геймплей и CGI на базе ИИ",
     "fullText": "<p>Тизер для VR-арены Another World — пример гибридного продакшна, где живые съёмки с актёрами, внутриигровой геймплей и CGI-эффекты на базе ИИ собраны в один ролик.</p>"
+  },
+  {
+    "id": "mfmr3hhgbbv",
+    "category": [
+      "Спецпроекты"
+    ],
+    "tag": "тест4",
+    "image": "https://raw.githubusercontent.com/arturmustaevusa-png/mustfilm-portfolio/main/images/pf1782995499479.jpg",
+    "title": "тест4",
+    "rutube": "https://rutube.ru/video/15540c97fb48602003e5c43aac5adef7/",
+    "fullTitle": "тест4",
+    "fullText": "<p>тест4</p>"
   }
 ]
